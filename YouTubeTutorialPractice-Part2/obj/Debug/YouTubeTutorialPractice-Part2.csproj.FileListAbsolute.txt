@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\bin\Debug\YouTubeTutorialPractice-Part2.exe.config
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\bin\Debug\YouTubeTutorialPractice-Part2.exe
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\bin\Debug\YouTubeTutorialPractice-Part2.pdb
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\obj\Debug\YouTubeTutorialPractice-Part2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\obj\Debug\YouTubeTutorialPractice-Part2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\obj\Debug\YouTubeTutorialPractice-Part2.exe
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\obj\Debug\YouTubeTutorialPractice-Part2.pdb
+C:\Users\User\source\repos\YouTubeTutorialPractice-Part2\YouTubeTutorialPractice-Part2\obj\Debug\YouTubeTutorialPractice-Part2.exe.config
