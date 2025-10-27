@@ -176,41 +176,31 @@ namespace YouTubeTutorialPractice_Part2
 
             //when using an out keyword, you have to assign value to parameters
             //however, ref (reference)  keyword doesn't require value passing
-            string name = "Joe";
+            
+            //string name = "Joe";
 
-            Console.Write("Enter your name: ");
+            //Console.Write("Enter your name: ");
 
-            string newName = Console.ReadLine();
+            //string newName = Console.ReadLine();
 
-            if (ChangeName(ref name, newName))
-            {
-                Console.WriteLine($"Your new name is {name}");
-            }
-            else
-            {
-                Console.WriteLine(" New name cannot be empty or Null !");
-            }
-
-
-
+            //if (ChangeName(ref name, newName))
+            //{
+            //    Console.WriteLine($"Your new name is {name}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine(" New name cannot be empty or Null !");
+            //}
 
 
-
-                Console.ReadLine();
-
+            ////Summary:  
 
 
-
-
-
-
-
-
-
-
-
-
+            Console.ReadLine();
         }
+
+        ////-------------------------------------------------------------------------------------------------
+        //// functions
 
         /* 
          * static void WelcomeMessage() //as the main function is static ,to use our function inside main we need object reference from static nature
@@ -385,23 +375,23 @@ namespace YouTubeTutorialPractice_Part2
         ////-------------------------------------------------------------------------------------------------
         //// reference parameters
        
-        static void Assign(ref int num, ref string name) // for passing values to variables by reference which means original value changes according to assignment, not its copies are created
-        {
-            num = 20;
-            name = "Aba";
-        }
+        //static void Assign(ref int num, ref string name) // for passing values to variables by reference which means original value changes according to assignment, not its copies are created
+        //{
+        //    num = 20;
+        //    name = "Aba";
+        //}
 
-        static bool ChangeName(ref string name , string newName)
-        {
-            if (!string.IsNullOrEmpty(newName))
-            {
-                name = newName;
-                return true;
-            }
+        //static bool ChangeName(ref string name , string newName)
+        //{
+        //    if (!string.IsNullOrEmpty(newName))
+        //    {
+        //        name = newName;
+        //        return true;
+        //    }
             
-            return false;
+        //    return false;
             
-        }
+        //}
 
     }
 
